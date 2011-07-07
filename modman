@@ -1,4 +1,5 @@
-app/code/local/Aoe/Scheduler				htdocs/app/code/local/Aoe/Scheduler
-app/etc/modules/Aoe_Scheduler.xml			htdocs/app/etc/modules/Aoe_Scheduler.xml
-shell/*										htdocs/shell/
-app/locale/de_DE/Aoe_Scheduler.csv			htdocs/app/locale/de_DE/Aoe_Scheduler.csv
+app/code/community/Aoe/Scheduler			app/code/local/Aoe/Scheduler
+app/etc/modules/Aoe_Scheduler.xml			app/etc/modules/Aoe_Scheduler.xml
+shell/*										shell/
+app/locale/de_DE/Aoe_Scheduler.csv			app/locale/de_DE/Aoe_Scheduler.csv
+app/locale/sv_SE/Aoe_Scheduler.csv			app/locale/sv_SE/Aoe_Scheduler.csv
